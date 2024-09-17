@@ -1,10 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 640 640" preserveAspectRatio="xMidYMid meet">
   <!-- Block Body -->
-  <rect x="8" y="8" width="48" height="48" fill="gray" stroke="black" stroke-width="2" rx="8" ry="8"/>
+  <rect x="80" y="80" width="480" height="480" fill="gray" stroke="black" stroke-width="4" rx="16" ry="16"/>
 
-  <!-- Inner Grid Design (Optional) -->
-  <line x1="8" y1="24" x2="56" y2="24" stroke="black" stroke-width="2"/>
-  <line x1="8" y1="40" x2="56" y2="40" stroke="black" stroke-width="2"/>
-  <line x1="24" y1="8" x2="24" y2="56" stroke="black" stroke-width="2"/>
-  <line x1="40" y1="8" x2="40" y2="56" stroke="black" stroke-width="2"/>
+  <!-- Board Grid Design -->
+  <line x1="80" y1="160" x2="560" y2="160" stroke="black" stroke-width="4"/>
+  <line x1="80" y1="240" x2="560" y2="240" stroke="black" stroke-width="4"/>
+  <line x1="80" y1="320" x2="560" y2="320" stroke="black" stroke-width="4"/>
+  <line x1="80" y1="400" x2="560" y2="400" stroke="black" stroke-width="4"/>
+  <line x1="80" y1="480" x2="560" y2="480" stroke="black" stroke-width="4"/>
+  
+  <line x1="160" y1="80" x2="160" y2="560" stroke="black" stroke-width="4"/>
+  <line x1="240" y1="80" x2="240" y2="560" stroke="black" stroke-width="4"/>
+  <line x1="320" y1="80" x2="320" y2="560" stroke="black" stroke-width="4"/>
+  <line x1="400" y1="80" x2="400" y2="560" stroke="black" stroke-width="4"/>
+  <line x1="480" y1="80" x2="480" y2="560" stroke="black" stroke-width="4"/>
 </svg>
